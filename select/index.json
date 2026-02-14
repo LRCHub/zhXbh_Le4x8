@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "心音",
+  "base_artist": "ゆず",
+  "createdAt": "2026-02-14T15:20:54.333359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/01_心音_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/02_心音_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心音 - Shinon",
+      "artist": "GADORO",
+      "has_synced": true,
+      "path": "select/03_心音_-_Shinon_GADORO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心音（しんおん）",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/04_心音(しんおん)_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "KK",
+      "has_synced": true,
+      "path": "select/05_心音_KK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "やなわらばー",
+      "has_synced": true,
+      "path": "select/06_心音_やなわらばー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "心音 \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" (Live)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/07_心音__unknown_ver._Live_at_PACIFICO_YOKOHAMA_2021.04.29__(Live)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/08_心音_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/09_心音_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "Eenai；",
+      "has_synced": false,
+      "path": "select/10_心音_Eenai;.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "GIRLFRIEND",
+      "has_synced": false,
+      "path": "select/11_心音_GIRLFRIEND.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "心音",
+      "artist": "福山 雅治",
+      "has_synced": true,
+      "path": "select/12_心音_福山_雅治.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "2.癒しのハグ（胸圧・心音）",
+      "artist": "チームランドセル",
+      "has_synced": true,
+      "path": "select/13_2.癒しのハグ(胸圧・心音)_チームランドセル.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Track8 一緒に眠りましょう【吐息・寝息・添い寝・心音】SEなし",
+      "artist": "Spica(スピカ)",
+      "has_synced": true,
+      "path": "select/14_Track8_一緒に眠りましょう【吐息・寝息・添い寝・心音】SEなし_Spica(スピカ).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "おまけ02 彼女とお家デート～お菓子咀嚼&心音～",
+      "artist": "1日分のもちもちだま",
+      "has_synced": true,
+      "path": "select/15_おまけ02_彼女とお家デート~お菓子咀嚼&心音~_1日分のもちもちだま.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "1.またやってきたのね【耳かき-心音】",
+      "artist": "チームランドセル",
+      "has_synced": true,
+      "path": "select/16_1.またやってきたのね【耳かき-心音】_チームランドセル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心音",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_心音_ゆず.txt"
+    }
+  ]
+}
